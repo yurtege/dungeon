@@ -1,2 +1,1 @@
-# Emre abi sa
-OOP game
+OOP game led by bro Emre
